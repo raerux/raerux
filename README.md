@@ -14,7 +14,7 @@
 <h3 align="left">my social medias !</h3>
 
 <div>
-  <a href="https://www.linkedin.com/in/israelsiqueira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+  <a href="https://www.linkedin.com/in/israel-siqueira-65aaba329/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div>
 
 <h3 align="left">currently studying !</h3>
