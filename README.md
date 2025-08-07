@@ -14,11 +14,7 @@
 <h3 align="left">my social medias !</h3>
 
 <div>
-  <a href="https://www.instagram.com/brunaferbz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://br.pinterest.com/buggiiez" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"  target="_blank"></a>
-  <a href="https://www.tiktok.com/@buggiiez?_t=ZM-8wWUAOew3W9&_r=1" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"  target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunafernandesbatista" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-  <a href="https://wa.me/93992407895" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  target="_blank"></a>
+  <a href="https://www.linkedin.com/in/israelsiqueira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div>
 
 <h3 align="left">currently studying !</h3>
