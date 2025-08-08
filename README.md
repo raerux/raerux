@@ -33,11 +33,16 @@
 <div align="center">
   <h3>github stats !</h3>
   <br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=raerux&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=4B0082&text_color=FFFFFF&border_radius=5&border_color=4B0082&icon_color=4B0082&theme=jolly" alt="GitHub stats of raerux">
 
   <br><br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raerux&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=4B0082&bg_color=000000&text_color=8B8B8B&border_radius=5&border_color=4B0082&hide=html,scss,less" alt="Most Used Languages by raerux">
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raerux&theme=tokyonight&background=000000&ring=4B0082&fire=4B0082&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=8B8B8B&sideNums=8B8B8B&dates=8B8B8B" alt="GitHub Streak Stats">
 </div>
 
 #
