@@ -30,14 +30,14 @@
 </div>
 
 ##
-<div style="text-align: center;" align="center">
+<div align="center">
   <h3>github stats !</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brunaferbz&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=c1121f&text_color=FFF&border_radius=3&border_color=c1121f&icon_color=c1121f&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=raerux&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=4B0082&text_color=FFFFFF&border_radius=5&border_color=4B0082&icon_color=4B0082&theme=jolly" alt="GitHub stats of raerux">
 
-  <a href="https://github.com/brunaferbz/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunaferbz&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=c1121f&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=c1121f&count_private=true" alt="Most Used Languages">
-  </a>
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raerux&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=4B0082&bg_color=000000&text_color=8B8B8B&border_radius=5&border_color=4B0082&hide=html,scss,less" alt="Most Used Languages by raerux">
 </div>
 
 #
