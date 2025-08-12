@@ -11,14 +11,14 @@
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<h3 align="left">my social medias !</h3>
+<h3 align="left">my social medias!</h3>
 
 <div>
   <a href="https://www.linkedin.com/in/israel-siqueira-65aaba329/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
   <a href="https://x.com/lessemouse" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
 </div>
 
-<h3 align="left">currently studying !</h3>
+<h3 align="left">currently studying!</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" />
@@ -31,7 +31,7 @@
 
 ##
 <div align="center">
-  <h3>github stats !</h3>
+  <h3>github stats!</h3>
   <br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=raerux&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=4B0082&text_color=FFFFFF&border_radius=5&border_color=4B0082&icon_color=4B0082&theme=jolly" alt="GitHub stats of raerux">
