@@ -5,7 +5,7 @@
 </div>
 
 ##
-<p align="center"> Salut!! I am Israel Siqueira (raerux), studant of Systems Analysis and Development at Unama - University of Amazon, currently in the second semester. I aim to pursue an IT career with a focus on back-end and systems development, and I'm also available for other IT roles and areas. I already have experience with JavaScript and some Python from high school, and I'm currently focusing on Java/Spring Boot.
+<p align="center"> Salut!! I am Israel Siqueira (raerux), student of Systems Analysis and Development at Unama - University of the Amazon, currently in the second semester. I aim to pursue an IT career with a focus on back-end and systems development, and I'm also available for other IT roles and areas. I already have experience with JavaScript and some Python from high school, and I'm currently focusing on Java/Spring Boot.
 
 ##
 
@@ -38,11 +38,11 @@
   <h3>github stats!</h3>
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=raerux&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=4B0082&text_color=FFFFFF&border_radius=5&border_color=4B0082&icon_color=4B0082&theme=jolly" alt="GitHub stats of raerux">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raerux&show_icons=true&theme=dark&include_all_commits=true)
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raerux&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=4B0082&bg_color=000000&text_color=8B8B8B&border_radius=5&border_color=4B0082&hide=html,scss,less" alt="Most Used Languages by raerux">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raerux&theme=dark)
 
   <br><br>
 
