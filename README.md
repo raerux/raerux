@@ -5,7 +5,7 @@
 </div>
 
 ##
-<p align="center"> Salut!! I am Israel Siqueira (raerux), student of Systems Analysis and Development at Unama - University of the Amazon, currently in the second semester. I aim to pursue an IT career with a focus on back-end and systems development, and I'm also available for other IT roles and areas. I already have experience with JavaScript and some Python from high school, and I'm currently focusing on Java/Spring Boot.
+<p align="center"> Salut!! I am Israel Siqueira (raerux), student of Systems Analysis and Development at Unama - University of the Amazon, currently in the second semester. I aim to pursue an IT career with a focus on back-end and systems development, and I'm also available for other IT roles and areas. I already have experience with JavaScript and some Python from high school, and I'm currently focusing on Java/Spring Boot and Django.
 
 ##
 
