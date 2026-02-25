@@ -31,13 +31,6 @@
 ##
 <div align="center">
   <h3>github stats!</h3>
-  <br>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raerux&show_icons=true&theme=dark&include_all_commits=true)
-
-  <br><br>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raerux&theme=dark)
 
   <br><br>
 
