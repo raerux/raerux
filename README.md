@@ -26,7 +26,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="36" alt="laravel logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" height="36" alt="vue logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue.js/vue.js-original.svg" height="36" alt="vue logo" />
   <img width="10" />
 </div>
 
