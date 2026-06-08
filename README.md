@@ -5,8 +5,7 @@
 </div>
 
 ##
-<p align="center"> Salut!! I am Israel Siqueira (raerux), student of Systems Analysis and Development at Unama - University of the Amazon, currently in the third semester. I aim to pursue an IT career with a focus on back-end and systems development, and I'm also available for other IT roles and areas. I already have experience with JavaScript and some Python from high school, and I'm currently focusing on Java/Spring Boot.
-
+<p align="center"> Dedicated Full-Stack Software Developer from Brazil seeking international opportunities to advance my career in the global market. Currently working as a Development Intern at the Civil Police of Pará’s official systems, where I develop and maintain critical software solutions while gaining practical experience in system architecture, API design, and software best practices. I am committed to continuous learning and seeking a challenging position with an international company where I can contribute my technical skills, collaborate with experienced teams.
 ##
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
