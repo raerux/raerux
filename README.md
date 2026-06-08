@@ -6,6 +6,7 @@
 
 ##
 <p align="center"> Dedicated Full-Stack Software Developer from Brazil seeking international opportunities to advance my career in the global market. Currently working as a Development Intern at the Civil Police of Pará’s official systems, where I develop and maintain critical software solutions while gaining practical experience in system architecture, API design, and software best practices. I am committed to continuous learning and seeking a challenging position with an international company where I can contribute my technical skills, collaborate with experienced teams.
+  
 ##
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
@@ -16,7 +17,7 @@
   <a href="https://www.linkedin.com/in/israel-siqueira-65aaba329/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div>
 
-<h3 align="left">currently studying!</h3>
+<h3 align="left">currently working with!</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="php logo" />
